@@ -1,0 +1,30 @@
+c:\users\familia\documents\visual studio 2010\Projects\Inventory_ImportPartesHBD\Inventory_ImportPartesHBD\obj\x86\Debug\Inventory_ImportPartesHBD.Properties.Resources.resources
+c:\users\familia\documents\visual studio 2010\Projects\Inventory_ImportPartesHBD\Inventory_ImportPartesHBD\obj\x86\Debug\Inventory_ImportPartesHBD.csproj.GenerateResource.Cache
+c:\users\familia\documents\visual studio 2010\Projects\Inventory_ImportPartesHBD\Inventory_ImportPartesHBD\bin\Debug\Inventory_ImportPartesHBD.exe
+c:\users\familia\documents\visual studio 2010\Projects\Inventory_ImportPartesHBD\Inventory_ImportPartesHBD\bin\Debug\Inventory_ImportPartesHBD.pdb
+c:\users\familia\documents\visual studio 2010\Projects\Inventory_ImportPartesHBD\Inventory_ImportPartesHBD\obj\x86\Debug\Inventory_ImportPartesHBD.Views.Login_Form.resources
+c:\users\familia\documents\visual studio 2010\Projects\Inventory_ImportPartesHBD\Inventory_ImportPartesHBD\obj\x86\Debug\Inventory_ImportPartesHBD.exe
+c:\users\familia\documents\visual studio 2010\Projects\Inventory_ImportPartesHBD\Inventory_ImportPartesHBD\obj\x86\Debug\Inventory_ImportPartesHBD.pdb
+c:\users\familia\documents\visual studio 2010\Projects\Inventory_ImportPartesHBD\Inventory_ImportPartesHBD\obj\x86\Debug\Inventory_ImportPartesHBD.Views.Menu_Form.resources
+C:\Users\familia\Documents\Visual Studio 2010\Projects\Inventory_ImportPartesHBD\Inventory_ImportPartesHBD\obj\x86\Debug\Inventory_ImportPartesHBD.csprojResolveAssemblyReference.cache
+C:\Users\familia\Documents\Visual Studio 2010\Projects\Inventory_ImportPartesHBD\Inventory_ImportPartesHBD\obj\x86\Debug\Inventory_ImportPartesHBD.Views.Productos_Form.resources
+C:\Users\familia\documents\visual studio 2010\Projects\Inventory_ImportPartesHBD\Inventory_ImportPartesHBD\obj\x86\Debug\Inventory_ImportPartesHBD.Views.DetallesProducto_Form.resources
+C:\Users\familia\Documents\Visual Studio 2010\Projects\Inventory_ImportPartesHBD\Inventory_ImportPartesHBD\obj\x86\Debug\Inventory_ImportPartesHBD.Views.Config_Form.resources
+C:\Users\familia\Documents\Visual Studio 2010\Projects\Inventory_ImportPartesHBD\Inventory_ImportPartesHBD\obj\x86\Debug\Inventory_ImportPartesHBD.Views.TasaDolar_Form.resources
+C:\Users\Jose Teodoro\Documents\Visual Studio 2010\Projects\Inventory_ImportPartesHBD\Inventory_ImportPartesHBD\obj\x86\Debug\Inventory_ImportPartesHBD.exe
+C:\Users\Jose Teodoro\Documents\Visual Studio 2010\Projects\Inventory_ImportPartesHBD\Inventory_ImportPartesHBD\obj\x86\Debug\Inventory_ImportPartesHBD.pdb
+C:\Users\Jose Teodoro\Documents\Visual Studio 2010\Projects\Inventory_ImportPartesHBD\Inventory_ImportPartesHBD\bin\Debug\Inventory_ImportPartesHBD.exe
+C:\Users\Jose Teodoro\Documents\Visual Studio 2010\Projects\Inventory_ImportPartesHBD\Inventory_ImportPartesHBD\bin\Debug\Inventory_ImportPartesHBD.pdb
+C:\Users\Jose Teodoro\Documents\Visual Studio 2010\Projects\Inventory_ImportPartesHBD\Inventory_ImportPartesHBD\obj\x86\Debug\Inventory_ImportPartesHBD.csprojResolveAssemblyReference.cache
+C:\Users\Jose Teodoro\Documents\Visual Studio 2010\Projects\Inventory_ImportPartesHBD\Inventory_ImportPartesHBD\obj\x86\Debug\Inventory_ImportPartesHBD.Properties.Resources.resources
+C:\Users\Jose Teodoro\Documents\Visual Studio 2010\Projects\Inventory_ImportPartesHBD\Inventory_ImportPartesHBD\obj\x86\Debug\Inventory_ImportPartesHBD.Views.Config_Form.resources
+C:\Users\Jose Teodoro\Documents\Visual Studio 2010\Projects\Inventory_ImportPartesHBD\Inventory_ImportPartesHBD\obj\x86\Debug\Inventory_ImportPartesHBD.Views.DetallesProducto_Form.resources
+C:\Users\Jose Teodoro\Documents\Visual Studio 2010\Projects\Inventory_ImportPartesHBD\Inventory_ImportPartesHBD\obj\x86\Debug\Inventory_ImportPartesHBD.Views.Login_Form.resources
+C:\Users\Jose Teodoro\Documents\Visual Studio 2010\Projects\Inventory_ImportPartesHBD\Inventory_ImportPartesHBD\obj\x86\Debug\Inventory_ImportPartesHBD.Views.Menu_Form.resources
+C:\Users\Jose Teodoro\Documents\Visual Studio 2010\Projects\Inventory_ImportPartesHBD\Inventory_ImportPartesHBD\obj\x86\Debug\Inventory_ImportPartesHBD.Views.Productos_Form.resources
+C:\Users\Jose Teodoro\Documents\Visual Studio 2010\Projects\Inventory_ImportPartesHBD\Inventory_ImportPartesHBD\obj\x86\Debug\Inventory_ImportPartesHBD.Views.TasaDolar_Form.resources
+C:\Users\Jose Teodoro\Documents\Visual Studio 2010\Projects\Inventory_ImportPartesHBD\Inventory_ImportPartesHBD\obj\x86\Debug\Inventory_ImportPartesHBD.csproj.GenerateResource.Cache
+C:\Users\Jose Teodoro\Documents\Visual Studio 2010\Projects\Inventory_ImportPartesHBD\Inventory_ImportPartesHBD\obj\x86\Debug\Inventory_ImportPartesHBD.Views.CrearProducto_Form.resources
+C:\Users\Jose Teodoro\Documents\Visual Studio 2010\Projects\Inventory_ImportPartesHBD\Inventory_ImportPartesHBD\obj\x86\Debug\Inventory_ImportPartesHBD.Views.EntradaProducto_Form.resources
+C:\Users\Jose Teodoro\Documents\Visual Studio 2010\Projects\Inventory_ImportPartesHBD\Inventory_ImportPartesHBD\obj\x86\Debug\Inventory_ImportPartesHBD.Views.AgregarProducto_SubForm.resources
+C:\Users\Jose Teodoro\Documents\Visual Studio 2010\Projects\Inventory_ImportPartesHBD\Inventory_ImportPartesHBD\obj\x86\Debug\Inventory_ImportPartesHBD.Views.Cantidad_SubForm.resources
